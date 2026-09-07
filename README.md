@@ -1,5 +1,5 @@
 # homework-OEF-1
-my homework  Operating Systems and Environments
+my homework  Operating Systems and Environments #1
 
 GoboLinux и отдельные каталоги приложений
 Другой необычный для Linux (но стандартный в OS X и Windows) подход к установке стороннего софта используется в дистрибутиве GoboLinux. Вместо привычных любому юниксоиду каталогов /bin, /usr/bin, /usr/share и других, содержащих установленные приложения в «размазанном» по системе виде, GoboLinux использует набор каталогов /Programs, /Users, /System, /Files, /Mount и /Depot.
